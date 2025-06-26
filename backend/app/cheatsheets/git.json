@@ -1,0 +1,16 @@
+[
+  {
+    "category": "Getting Started",
+    "commands": [
+      { "cmd": "git init", "desc": "Initialize a new repo" },
+      { "cmd": "git clone <url>", "desc": "Clone an existing repo" }
+    ]
+  },
+  {
+    "category": "Branching",
+    "commands": [
+      { "cmd": "git branch", "desc": "List branches" },
+      { "cmd": "git checkout -b <name>", "desc": "Create & switch branch" }
+    ]
+  }
+]
